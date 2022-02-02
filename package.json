@@ -1,0 +1,15 @@
+{
+  "name": "ps-mern",
+  "version": "1.0.0",
+  "description": "the online shoppping for learning react and mongodb and exprss and nodejs",
+  "main": "backend/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amir azarbashi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
